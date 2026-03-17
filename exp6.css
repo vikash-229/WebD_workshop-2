@@ -1,0 +1,15 @@
+button{ 
+    padding: 5px; 
+    margin: 5px; 
+     background-color: rgb(66, 17, 180); 
+} 
+button:hover{
+    background-color: red;
+}
+.container{ 
+    text-align: center; 
+    display: block; 
+    background-color: rgb(129, 150, 194); 
+    margin:100px; 
+    padding: 10px; 
+} 
