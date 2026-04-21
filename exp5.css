@@ -1,14 +1,14 @@
 .container{ 
     text-align: center; 
     display: block; 
-    background-color: rgb(129, 150, 194); 
+    background-color:lightblue;
     margin: 30px; 
     padding: 10px; 
 } 
 .button{ 
     padding: 5px; 
     margin: 5px; 
-     background-color: rgb(79, 180, 17); 
+     background-color: green;
 } 
 #name{ 
     height: 30px; 
@@ -35,5 +35,8 @@ border-radius: 10px;
 margin-left: 10px; 
 } 
 .button:hover{ 
-background-color:rgb(215, 21, 21) ; 
+background-color:orangered ; 
+}
+h2{
+    text-align: end;
 }

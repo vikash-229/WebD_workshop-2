@@ -66,3 +66,6 @@ button:hover {
     line-height: 1.6;
     border-left: 5px solid #4facfe;
 }
+h4{
+    text-align: end;
+}

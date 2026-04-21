@@ -13,3 +13,6 @@ button:hover{
     margin:100px; 
     padding: 10px; 
 } 
+h2{
+    text-align: end;
+}
